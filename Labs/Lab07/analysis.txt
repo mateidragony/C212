@@ -1,0 +1,3 @@
+Average Salary: 65.0
+Employee with highest salary: Stalin
+Employee with lowest salary: Irfan

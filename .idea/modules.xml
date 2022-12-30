@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment01/Assignment01.iml" filepath="$PROJECT_DIR$/Assignments/Assignment01/Assignment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment02/Assignment02.iml" filepath="$PROJECT_DIR$/Assignments/Assignment02/Assignment02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment03/Assignment03.iml" filepath="$PROJECT_DIR$/Assignments/Assignment03/Assignment03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment04/Assignment04.iml" filepath="$PROJECT_DIR$/Assignments/Assignment04/Assignment04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment05/Assignment05.iml" filepath="$PROJECT_DIR$/Assignments/Assignment05/Assignment05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment06/Assignment06.iml" filepath="$PROJECT_DIR$/Assignments/Assignment06/Assignment06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment07/Assignment07.iml" filepath="$PROJECT_DIR$/Assignments/Assignment07/Assignment07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment08/Assignment08.iml" filepath="$PROJECT_DIR$/Assignments/Assignment08/Assignment08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C212.iml" filepath="$PROJECT_DIR$/C212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fun/Fun.iml" filepath="$PROJECT_DIR$/Fun/Fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/Labs/Lab01/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab02/Lab02.iml" filepath="$PROJECT_DIR$/Labs/Lab02/Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Labs/Lab03/Lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Labs/Lab04/Lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Labs/Lab05/Lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab06/Lab06.iml" filepath="$PROJECT_DIR$/Labs/Lab06/Lab06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Labs/Lab07/Lab07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab08/Lab08.iml" filepath="$PROJECT_DIR$/Labs/Lab08/Lab08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab09/Lab09.iml" filepath="$PROJECT_DIR$/Labs/Lab09/Lab09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Labs/Lab10/Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab11/Lab11.iml" filepath="$PROJECT_DIR$/Labs/Lab11/Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab12/Lab12.iml" filepath="$PROJECT_DIR$/Labs/Lab12/Lab12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs13/Labs13.iml" filepath="$PROJECT_DIR$/Labs/Labs13/Labs13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs14/Labs14.iml" filepath="$PROJECT_DIR$/Labs/Labs14/Labs14.iml" />
+    </modules>
+  </component>
+</project>
